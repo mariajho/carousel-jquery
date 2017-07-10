@@ -1,1 +1,24 @@
-main.css
+		.carousel-inner > .item > img,
+		.carousel-inner > .item > a > img {
+			width: 70%;
+			margin: auto;
+		}
+
+		*{
+			font-family: 'Rakkas', cursive;
+		}
+
+		h1{
+			text-align: center;
+		}
+
+		h3{
+			font-weight: bold;
+			font-size: 30px;
+		}
+
+		p{
+			font-weight: bold;
+			font-size: 20px;
+		}
+
