@@ -10,3 +10,6 @@ $(".item").click(function(){
 $(".left").click(function(){
     $("#myCarousel").carousel("prev");
 });
+
+//
+$(".carousel").interval(5000);
